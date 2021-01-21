@@ -1,5 +1,9 @@
 # banerjee-data-parser
-Creates one csv file from multiple txt files collected in the field
+Creates one csv file from multiple txt files collected in the field.
+
+Sample ID | Date | ng/ul | 260/280 | 260/230
+---------------------------------------------
+
 
 # batch_process.py
 
