@@ -32,9 +32,9 @@ pip install pandas
 
 Copy the path of the folder which contains the .txt files you wish to process.
 In an anaconda prompt or other shell with python, type the following
-    '''
-    python batch_process.py "path"
-    '''
+```emacs
+python batch_process.py "path"
+```
 Make sure that you put the path in quotations or you will get an error.
 If you have issue, try to figure them out I guess. idk.
 
