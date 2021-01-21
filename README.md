@@ -14,13 +14,13 @@ Make sure you are able to run python scripts.
 You must have pandas installed. Install it by typing the following into an 
 anaconda prompt or other shell.
 
-'''python
+'''
 conda install pandas
 '''
 
 or
 
-'''python
+'''
 pip install pandas
 '''
     
