@@ -35,7 +35,7 @@ In an anaconda prompt or other shell with python, type the following
 ```
 python batch_process.py "path"
 ```
-Make sure that you put the path in quotations or you will get an error.
+Make sure that you put the path in quotations if there are spaces in it or you will get an error.
 If you have issue, try to figure them out I guess. idk.
 
 # CONTRIBUTORS
