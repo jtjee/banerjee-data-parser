@@ -13,13 +13,15 @@ You might need to verify that the data was correctly entered.
 Make sure you are able to run python scripts.
 You must have pandas installed. Install it by typing the following into an 
 anaconda prompt or other shell.
-    '''
-    conda install pandas
-    '''
+
+'''
+conda install pandas
+'''
 or
-    '''
-    pip install pandas
-    '''
+
+'''
+pip install pandas
+'''
     
 # USAGE
 
