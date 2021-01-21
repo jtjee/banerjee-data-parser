@@ -17,6 +17,7 @@ anaconda prompt or other shell.
 '''
 conda install pandas
 '''
+
 or
 
 '''
