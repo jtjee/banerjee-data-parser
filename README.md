@@ -12,7 +12,7 @@ You might need to verify that the data was correctly entered.
 # INSTALLATION
 Make sure you are able to run python scripts.
 You must have pandas installed. Install it by typing the following into an 
-anaconda prompt or other shell.
+anaconda prompt or other shell. If using the linux terminal you will need to type pip3 instead of pip.
 
 ```
 conda install pandas
