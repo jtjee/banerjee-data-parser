@@ -2,7 +2,7 @@
 Creates one csv file from multiple txt files collected in the field.
 
 |Sample ID|Date|ng/ul|260/280|260/230|
----------------------------------------------
+|---------|----|-----|-------|-------|
 |FOO1|01/01/2021|100|1.0|1.0|
 
 # batch_process.py
