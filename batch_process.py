@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 import time
-import argparse
 import sys
 
 def strippify(filename):
@@ -9,6 +8,8 @@ def strippify(filename):
     text = f.read()
     f.close()
     nsplit = text.split('\n')
+    f = open(filename.replace('.txt', '_stripped.csv'), 'w')
+    f.close()
     for n in nsplit:
         if len(n.split('\t'))==13:
             f = open(filename.replace('.txt', '_stripped.csv'), 'a')
